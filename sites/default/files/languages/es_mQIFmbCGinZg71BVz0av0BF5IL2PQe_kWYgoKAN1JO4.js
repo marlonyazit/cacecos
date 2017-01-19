@@ -1,0 +1,1 @@
+Drupal.locale = { 'pluralFormula': function ($n) { return Number(($n!=1)); }, 'strings': {"":{"Show description":"Mostrar descripci\u00f3n","Hide description":"Esconder descripci\u00f3n"}} };
